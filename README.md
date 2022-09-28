@@ -1,3 +1,5 @@
+![ ](https://static.vecteezy.com/system/resources/previews/007/249/425/original/colorful-letter-r-fast-pixel-dot-logo-creative-scattered-technology-icon-vector.jpg)
+
 # RetroZone
 RetroZone is an up coming retro gaming site. This is where all the source code for the site sits at. If you want to take the source code, please follow the rules of the license before you continue.
 
